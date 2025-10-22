@@ -27,3 +27,4 @@ exclude_patterns:
   - 'frontend/src/assets/private/*.js'
   - 'lib/logger.ts'
   - 'lib/config.types.ts'
+  - lib/config.types.ts'
